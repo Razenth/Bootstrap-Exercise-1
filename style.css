@@ -1,0 +1,9 @@
+body{
+    background-image: url('https://images.pexels.com/photos/1647962/pexels-photo-1647962.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+form{
+    background-color:rgba(119, 136, 153, 0.692);
+}
